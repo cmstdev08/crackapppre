@@ -20,7 +20,7 @@
 
             <!-- Payload con chỉ cần tên -->
             <key>PayloadDisplayName</key>
-            <string>LocketGoldByANHTUANDEPTRAI</string>
+            <string>Bản quyền bởi Anh Tuấn (cmstdev)</string>
             <key>PayloadOrganization</key>
             <string>NextDNS - anhtuaan08</string>
             <key>PayloadIdentifier</key>
@@ -36,7 +36,7 @@
 
     <!-- Tên profile chính hiển thị lớn nhất -->
     <key>PayloadDisplayName</key>
-    <string>LocketGoldByANHTUANDEPTRAI</string>
+    <string>Locket Gold DNS By Anh Tuấn (cmstdev)</string>
     <key>PayloadOrganization</key>
     <string>TRẦN VĂN ANH TUẤN</string>
 
